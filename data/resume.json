@@ -1,0 +1,126 @@
+{
+	"personalInfo": {
+		"name": "Luca Bianchi",
+		"title": "Technologist",
+		"tagline": "Hi, I'm Luca Bianchi. I'm a passionate technologist with over 15 years of experience in Cloud, Artificial Intelligence and Software Engineering.",
+		"profile": "I have over a decade of experience in AI Leadership and cloud-native development. Riding the Architect Elevator to connect different stakeholders, fostering innovation in a challenging yet evolving technology market. Honored as an AWS Serverless Hero, my expertise spans Typescript to Python, NextJS to cloud-native development, from data engineering to deep learning. As a co-founder of Serverless Italy events and a resonant voice in global AI dialogues, I bridge knowledge gaps, inspire digital transformations, and thus empower people and brands at their best.",
+		"additionalProfile": "AWS Hero, cloud advocate, I have applied technology to real-life use cases. As a co-founder of Serverless Italy events and a resonant voice in global AI dialogues, I love matching architectures to practical experience, focusing on applied AI, and empowering people and brands. I host the \"CTO Talks\" podcast, where we dive deep into the latest technologies and interview industry experts.",
+		"roles": ["Technologist", "AI Expert", "AWS Hero", "Public Speaker"],
+		"contact": {
+			"address": "Via Villa Serafina 6G 27100 Pavia Italy",
+			"phone": "+39 328 6867731",
+			"email": "bianchi.luca@gmail.com"
+		},
+		"languages": [
+			{
+				"language": "English",
+				"level": "proficient"
+			},
+			{
+				"language": "Italian",
+				"level": "native language"
+			}
+		]
+	},
+	"experience": [
+		{
+			"title": "Field CTO",
+			"company": "Neosperience",
+			"period": "2024-Present",
+			"description": "As Field Chief Technology Officer, I support marketing and sales, shaping the company's AI and cloud strategy while managing research and development initiatives. Working with all company departments, I bridge different points of view while ensuring a scalable system architecture design for my products and swift adoption of emerging technologies. I provide support in top customer project definition and ground technical capabilities, defining constraints that impact P&L and ensuring well-architected solutions. I also establish and maintain key vendor relationships, aligning partnerships with our technological objectives."
+		},
+		{
+			"title": "Chief Technology Officer",
+			"company": "RHEI",
+			"period": "2024-Present",
+			"description": "My role encompasses designing scalable system architectures and serving as the technical lead for the Digital Business Unit. I have focused on the applied AI outcomes and the relationship with key vendors, ensuring cooperation and goal alignment. I provide the technical management of our e-commerce accelerator product and delivery teams and support sales initiatives."
+		},
+		{
+			"title": "Chief Technology Officer",
+			"company": "Neosperience Health",
+			"period": "2022-Present",
+			"description": "I shape the startup growth with a fast-growing, sustainable vision in healthcare. I lead the dev team (internals and outsourcing) in defining the best architecture for our SaaS product. I support pitching and technical discussions, presenting our approach to AI and cloud to investors and key customers."
+		},
+		{
+			"title": "Chief Technology Officer",
+			"company": "Neosperience",
+			"period": "2014-2023",
+			"description": "I led the company's growth from startup to enterprise through technological vision and software team management. I integrated cutting-edge technologies into our core product, Neosperience Cloud, to enhance customer value with a cross-functional team that spans the backend, web frontend, iOS, and Android. I moved the company delivery from monolithic backends to cloud-native microservices and managed dev teams to shift from monthly releases to weekly sprints with on-time production deployments."
+		},
+		{
+			"title": "Mentor",
+			"company": "Startupbootcamp",
+			"period": "2024-Present",
+			"description": "Mentor startups to build a strong value proposition for their products. Outline the business impact of cutting-edge technologies."
+		},
+		{
+			"title": "Co-Organizer",
+			"company": "ServerlessDays & Serverless Italy",
+			"period": "2018-Present",
+			"description": "ServerlessDays Milano is a developer-oriented conference about serverless technologies. We believe in and encourage practical sessions in which developers share their experiences and lessons from real-world projects. ServerlessDays Milano is part of ServerlessDays (formerly JeffConf), a global series of events fostering communities around serverless technologies."
+		},
+		{
+			"title": "R&D Manager",
+			"company": "Neosperience",
+			"period": "2010-2022",
+			"description": "As R&D Manager and developer, I led innovation within Neosperience Cloud, applying Machine Learning techniques to improve customer understanding and engagement. I actively contributed to the R&D team, focusing on Machine Learning and Blockchain technologies."
+		},
+		{
+			"title": "Platform Evangelist",
+			"company": "Neos",
+			"period": "2009-2014",
+			"description": "Provide a technical and goal-oriented point of view on mobc3 platform Neos customers, showing everything that can be done with this technology. Develop comparative demos and live webinars. Provide technical support to pre-sale operations."
+		}
+	],
+	"education": [
+		{
+			"degree": "PhD in Informatic Engineering",
+			"institution": "University of Pavia",
+			"period": "Oct 2006 - Dec 2010"
+		},
+		{
+			"degree": "Master Degree in Computer Engineering",
+			"institution": "University of Pavia",
+			"period": "Oct 2004 - Sep 2006",
+			"score": "110/110 cum laude"
+		},
+		{
+			"degree": "Bachelor Degree in Computer Engineering",
+			"institution": "University of Pavia",
+			"period": "Oct 2001 - Sep 2004",
+			"score": "107/110"
+		}
+	],
+	"skills": [
+		"Artificial Intelligence",
+		"Leadership",
+		"Team Management",
+		"Amazon Web Services",
+		"Cloud Native",
+		"Generative AI",
+		"Software Architectures",
+		"Typescript",
+		"React",
+		"Python",
+		"Machine Learning",
+		"Public Speaking"
+	],
+	"links": [
+		{
+			"url": "bianchiluca.com",
+			"type": "website"
+		},
+		{
+			"url": "linkedin.com/in/lucabianchipavia",
+			"type": "linkedin"
+		},
+		{
+			"url": "github.com/aletheia",
+			"type": "github"
+		},
+		{
+			"url": "twitter.com/bianchiluca",
+			"type": "twitter"
+		}
+	]
+}

@@ -1,0 +1,46 @@
+Always use the latest features of Next.js 15 with App Router, including Server Components, Server Actions, and API Routes.
+Ensure using next.config.ts.
+
+Add 'use client' at the top of the file when using client-side components.
+
+Use the @/ alias for imports to maintain consistency and improve readability.
+Example: import { Button } from '@/components/ui/button';
+
+Use the @/components/ui/ prefix for shadcn/ui components.
+Example: import { Card } from '@/components/ui/card';
+
+Install shadcn/ui using: pnpm dlx shadcn@latest add
+
+Use TailwindCSS for styling. Ensure proper configuration and usage of Tailwind classes. Ensure using tailwind.config.ts.
+
+Use zod for form validation and schema definition.
+
+Use lucide-react for icons. Import icons as needed.
+Example: import { Search } from 'lucide-react';
+
+Use pnpm as the package manager for consistency and efficiency.
+Install dependencies using: pnpm install
+
+Configure your IDE to automatically import dependencies when possible.
+
+Utilize TypeScript for type safety. Define interfaces and types for props and state.
+
+Leverage Server Components for improved performance and reduced client-side JavaScript.
+
+Use API Routes for server-side logic and external API interactions.
+
+Implement proper error handling and display user-friendly error messages.
+
+Ensure components are accessible by using appropriate ARIA attributes and semantic HTML.
+
+Utilize Next.js built-in code splitting features for optimal performance.
+
+Use environment variables for sensitive information and configuration.
+
+Write unit tests and integration tests for components and utilities.
+
+Provide clear documentation for components, functions, and complex logic.
+
+Implement performance optimizations such as memoization and lazy loading when necessary.
+
+Use consistent code formatting. Consider using Prettier for automatic code formatting.
